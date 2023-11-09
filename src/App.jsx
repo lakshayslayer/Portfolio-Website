@@ -33,7 +33,7 @@ const App = () => {
 
       <section>
         <BrowserRouter>
-          <div className="relative z-0 bg-primary">
+          <div style={{backgroundColor:"#0c0c1d"}} className="relative z-0 bg-primary">
             <Tech/>
           </div>
         </BrowserRouter>

@@ -62,7 +62,7 @@ const Contact = () => {
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Address</h2>
-          <span>Ward No. 06, Ferozepur Jhirka, Haryan</span>
+          <span>Ward No. 06, Ferozepur Jhirka, Haryana</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Phone</h2>
